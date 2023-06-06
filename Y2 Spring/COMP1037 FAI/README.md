@@ -7,16 +7,16 @@
 
 ### 1. Basic Info
 
-| Title       | Content                                 | Remark       |
-| ----------- | --------------------------------------- | ------------ |
-| Module Code | COMP1037                                |              |
-| Name        | Fundamentals of Artificial Intelligence | FAI in short |
-| Credits     | 10                                      |              |
-| Lecture     | 1 per week                              | 2h           |
-| Lab         | 1 per week                              | 2h           |
-| CW1         | 10%                                     | covers pt.1  |
-| CW2         | 15%                                     | covers pt.2  |
-| Final Exam  | 75%                                     |              |
+| Title       | Content                                 | Remark           |
+| ----------- | --------------------------------------- | ---------------- |
+| Module Code | COMP1037                                |                  |
+| Name        | Fundamentals of Artificial Intelligence | **FAI** in short |
+| Credits     | 10                                      |                  |
+| Lecture     | 1 per week                              | 2h               |
+| Lab         | 1 per week                              | 2h               |
+| CW1         | 10%                                     | covers pt.1      |
+| CW2         | 15%                                     | covers pt.2      |
+| Final Exam  | 75%                                     |                  |
 
 
 
