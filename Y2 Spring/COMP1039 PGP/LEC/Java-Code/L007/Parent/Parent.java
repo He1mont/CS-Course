@@ -1,0 +1,3 @@
+class Parent {
+    int i;
+}
