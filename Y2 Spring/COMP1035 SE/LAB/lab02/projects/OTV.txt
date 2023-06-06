@@ -1,0 +1,7 @@
+OTV (Online Television) is a company which delivers both paid and free online television broadcasting services to all TV fans. Members can watch both live and archived TV programs on OTV's website, anytime and anywhere.
+
+There are two kinds of memberships - general and premium. It is free of charge for visitors to register as a general member to watch any archived TV programs. On the other hand, they can register as a premium member to watch both archived and live programs, for US $30 per month. A general member can upgrade himself to a premium member anytime he wants to. However, premium member is not allowed to change himself back to a general member. Members can remove his/her account permanently by mailing us an account removal form.
+
+Besides watching TV programs, premium members can share their opinions of the TV programs with each other, by posting their opinion under the video panel. Prizes will be given to the member who raises the most active discussion each month. Premium members will also receive monthly newsletter, which lists the recommended programs in the coming month.
+
+In order to maintain the system, administrators should have the rights to update the program schedule, update the program as well as to archive programs. Administrator should also help to monitor the delivery of newsletter to premium members.
