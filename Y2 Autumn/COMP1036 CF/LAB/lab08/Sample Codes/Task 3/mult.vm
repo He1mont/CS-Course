@@ -1,0 +1,33 @@
+// Given Argument[0] = x, Argument[1] = y
+// Local[0] = x * y
+// It is done by adding x, y number of times
+//
+//   Local[0] = 0;
+//   Local[1] = 1;
+//   while !(Local[1] > Argument[1]) {
+//      Local[0] = Local[0] + Argument[0];
+//      Local[1] = Local[1] + 1;
+//   }
+//   push Local[0] onto stack;
+
+//-------------------------------------------------
+   push constant 0  // sum=0
+   pop local 0
+   push constant 1  // n=1
+   pop local 1
+label LOOP
+   push local 1     // if !(n>y)
+   push argument 1  //  goto END
+   gt
+   if-goto END
+   push local 0     // sum+=x
+   push argument 0
+   add
+   pop local 0
+   push local 1     // n++
+   push constant 1
+   add
+   pop local 1
+   goto LOOP
+label END
+   push local 0

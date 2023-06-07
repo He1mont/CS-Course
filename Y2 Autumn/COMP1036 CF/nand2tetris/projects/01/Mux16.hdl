@@ -1,0 +1,73 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/01/Mux16.hdl
+
+/**
+ * 16-bit multiplexor: 
+ * for i = 0..15 out[i] = a[i] if sel == 0 
+ *                        b[i] if sel == 1
+ */
+
+CHIP Mux16 {
+    IN a[16], b[16], sel;
+    OUT out[16];
+
+    PARTS:
+    Not(in=sel, out=notsel);
+
+    // 先做A与sel非
+    And(a=a[0], b=notsel, out=out01);
+    And(a=a[1], b=notsel, out=out11);
+    And(a=a[2], b=notsel, out=out21);
+    And(a=a[3], b=notsel, out=out31);
+    And(a=a[4], b=notsel, out=out41);
+    And(a=a[5], b=notsel, out=out51);
+    And(a=a[6], b=notsel, out=out61);
+    And(a=a[7], b=notsel, out=out71);
+    And(a=a[8], b=notsel, out=out81);
+    And(a=a[9], b=notsel, out=out91);
+    And(a=a[10], b=notsel, out=out101);
+    And(a=a[11], b=notsel, out=out111);
+    And(a=a[12], b=notsel, out=out121);
+    And(a=a[13], b=notsel, out=out131);
+    And(a=a[14], b=notsel, out=out141);
+    And(a=a[15], b=notsel, out=out151);
+
+    // 再做B与sel
+    And(a=b[0], b=sel, out=out02);
+    And(a=b[1], b=sel, out=out12);
+    And(a=b[2], b=sel, out=out22);
+    And(a=b[3], b=sel, out=out32);
+    And(a=b[4], b=sel, out=out42);
+    And(a=b[5], b=sel, out=out52);
+    And(a=b[6], b=sel, out=out62);
+    And(a=b[7], b=sel, out=out72);
+    And(a=b[8], b=sel, out=out82);
+    And(a=b[9], b=sel, out=out92);
+    And(a=b[10], b=sel, out=out102);
+    And(a=b[11], b=sel, out=out112);
+    And(a=b[12], b=sel, out=out122);
+    And(a=b[13], b=sel, out=out132);
+    And(a=b[14], b=sel, out=out142);
+    And(a=b[15], b=sel, out=out152);
+
+    // 最后做或门
+    Or(a=out01, b=out02, out=out[0]);
+    Or(a=out11, b=out12, out=out[1]);
+    Or(a=out21, b=out22, out=out[2]);
+    Or(a=out31, b=out32, out=out[3]);
+    Or(a=out41, b=out42, out=out[4]);
+    Or(a=out51, b=out52, out=out[5]);
+    Or(a=out61, b=out62, out=out[6]);
+    Or(a=out71, b=out72, out=out[7]);
+    Or(a=out81, b=out82, out=out[8]);
+    Or(a=out91, b=out92, out=out[9]);
+    Or(a=out101, b=out102, out=out[10]);
+    Or(a=out111, b=out112, out=out[11]);
+    Or(a=out121, b=out122, out=out[12]);
+    Or(a=out131, b=out132, out=out[13]);
+    Or(a=out141, b=out142, out=out[14]);
+    Or(a=out151, b=out152, out=out[15]);
+    
+}

@@ -1,0 +1,52 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/03/a/Register.hdl
+
+/**
+ * 16-bit register:
+ * If load[t] == 1 then out[t+1] = in[t]
+ * else out does not change
+ */
+
+CHIP Register {
+    IN in[16], load;
+    OUT out[16];
+
+    PARTS:
+    // Put your code here:
+    Mux(a=dffout0, b=in[0], sel=load, out=muxout0);
+    Mux(a=dffout1, b=in[1], sel=load, out=muxout1);
+    Mux(a=dffout2, b=in[2], sel=load, out=muxout2);
+    Mux(a=dffout3, b=in[3], sel=load, out=muxout3);
+    Mux(a=dffout4, b=in[4], sel=load, out=muxout4);
+    Mux(a=dffout5, b=in[5], sel=load, out=muxout5);
+    Mux(a=dffout6, b=in[6], sel=load, out=muxout6);
+    Mux(a=dffout7, b=in[7], sel=load, out=muxout7);
+    Mux(a=dffout8, b=in[8], sel=load, out=muxout8);
+    Mux(a=dffout9, b=in[9], sel=load, out=muxout9);
+    Mux(a=dffout10, b=in[10], sel=load, out=muxout10);
+    Mux(a=dffout11, b=in[11], sel=load, out=muxout11);
+    Mux(a=dffout12, b=in[12], sel=load, out=muxout12);
+    Mux(a=dffout13, b=in[13], sel=load, out=muxout13);
+    Mux(a=dffout14, b=in[14], sel=load, out=muxout14);
+    Mux(a=dffout15, b=in[15], sel=load, out=muxout15);
+
+    DFF(in=muxout0, out=dffout0, out=out[0]);
+    DFF(in=muxout1, out=dffout1, out=out[1]);
+    DFF(in=muxout2, out=dffout2, out=out[2]);
+    DFF(in=muxout3, out=dffout3, out=out[3]);
+    DFF(in=muxout4, out=dffout4, out=out[4]);
+    DFF(in=muxout5, out=dffout5, out=out[5]);
+    DFF(in=muxout6, out=dffout6, out=out[6]);
+    DFF(in=muxout7, out=dffout7, out=out[7]);
+    DFF(in=muxout8, out=dffout8, out=out[8]);
+    DFF(in=muxout9, out=dffout9, out=out[9]);
+    DFF(in=muxout10, out=dffout10, out=out[10]);
+    DFF(in=muxout11, out=dffout11, out=out[11]);
+    DFF(in=muxout12, out=dffout12, out=out[12]);
+    DFF(in=muxout13, out=dffout13, out=out[13]);
+    DFF(in=muxout14, out=dffout14, out=out[14]);
+    DFF(in=muxout15, out=dffout15, out=out[15]);
+    
+}
