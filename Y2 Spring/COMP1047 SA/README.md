@@ -56,7 +56,7 @@ Network 部分的 note，我上课的时候整过一遍，复习的时候又整�
 
 这门课的教材说是有三本，但其实最常提到的就是 Architecture 部分的 *Harris&Harris*，文件夹里也有一个专门的 [book reference](./Textbook/Book-Reference.pdf)
 
-Network 部分好像没有和教材产生太多 reference，但那本***自顶向下方法***很厉害，所以也放在里面了（虽然我没看过）
+Network 部分好像没有和教材产生太多 reference，那本 ***计算机网络 自顶向下方法*** 很厉害，有兴趣的话可以去找来看看
 
 
 
