@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="{{url_for('static',filename='normalize.css')}}">
+		<link rel="stylesheet" href="{{url_for('static',filename='skeleton.css')}}">
+		<link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<h1>Module Credits</h1>
+			</div>
+			<div class="row">
+				<table border = 1 class="u-full-width">
+					<thead>
+						<tr>
+							<th>Module</th>
+							<th>Credits</th>
+						</tr>
+					</thead>
+					{% for key, value in result.items() %}
+					<tr>
+						<td> {{ key }} </td>
+						<td> {{ value }} </td>
+					</tr>
+					{% endfor %}
+				</table>
+			</div>
+		</div>
+	</body>
+</html>

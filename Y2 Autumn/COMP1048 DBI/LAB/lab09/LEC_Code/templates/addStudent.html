@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Student Records</title>
+		<link rel="stylesheet" href="{{url_for('static',filename='normalize.css')}}">
+		<link rel="stylesheet" href="{{url_for('static',filename='skeleton.css')}}">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<h1>Add a New Student</h1>
+			</div>
+			<form action="/add_student_to_db/" method="POST">
+				<div class="row">
+					<div class="six columns">
+						<label for="id">Student ID</label>
+						<input class="u-full-width" name="id" value="S110">
+					</div>
+				</div>
+				<div class="row">
+					<div class="six columns">
+						<label for="name">First Name</label>
+						<input class="u-full-width" name="first" value="Bob">
+					</div>
+				</div>
+				<div class="row">
+					<div class="six columns">
+						<label for="name">Last Name</label>
+						<input class="u-full-width" name="last" value="Dylan">
+					</div>
+				</div>
+				<div class="row">
+					<div class="two columns">
+						<input class="button-primary" type="submit" value="submit input">
+					</div>
+				</div>
+			</form>
+			<div class="row">
+				<a href="/">View Students and Grade Info</a>
+			</div>
+		</div>
+	</body>
+</html>

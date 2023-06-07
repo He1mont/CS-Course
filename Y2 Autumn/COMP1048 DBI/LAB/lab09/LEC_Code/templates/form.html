@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="{{url_for('static',filename='normalize.css')}}">
+		<link rel="stylesheet" href="{{url_for('static',filename='skeleton.css')}}">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<h1>GET</h1>
+				<form method="GET" action="/sayhi/">
+					<div class="row">
+						<div class="six columns">
+							<label for="name">Your Name</label>
+							<input class="u-full-width" name="name" value="Bob">
+						</div>
+					</div>
+					<div class="row">
+						<div class="six columns">
+							<label for="age">Your Age</label>
+							<input class="u-full-width" name="age" value="25">
+						</div>
+					</div>
+					<div class="row">
+						<div class="six columns">
+							<label for="tel">Your Tel. No</label>
+							<input class="u-full-width" name="tel" value="+44 123456789">
+						</div>
+					</div>
+					<div class="row">
+						<input class="button-primary" type="submit" value="Submit">
+					</div>
+				</form>
+			</div>
+			
+			<div class="row">
+				<h1>POST</h1>
+				<form method="POST" action="/sayhi/">
+					<div class="row">
+						<div class="six columns">
+							<label for="name">Your Name</label>
+							<input class="u-full-width" name="name" value="Bob">
+						</div>
+					</div>
+					<div class="row">
+						<div class="six columns">
+							<label for="age">Your Age</label>
+							<input class="u-full-width" name="age" value="25">
+						</div>
+					</div>
+					<div class="row">
+						<div class="six columns">
+							<label for="tel">Your Tel. No</label>
+							<input class="u-full-width" name="tel" value="+44 123456789">
+						</div>
+					</div>
+					<div class="row">
+						<input class="button-primary" type="submit" value="Submit">
+					</div>
+				</form>
+			</div>
+			
+		</div>
+	</body>
+</html>

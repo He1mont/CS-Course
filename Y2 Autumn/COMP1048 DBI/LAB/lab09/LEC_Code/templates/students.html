@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Student Records</title>
+		<link rel="stylesheet" href="{{url_for('static',filename='normalize.css')}}">
+		<link rel="stylesheet" href="{{url_for('static',filename='skeleton.css')}}">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<table border = 1 class="u-full-width">
+					<thead>
+						<tr>
+							<th>Student ID</th>
+							<th>Name</th>
+							<th>Module</th>
+							<th>Grade</th>
+						</tr>
+					</thead>
+					{% for row in rows %}
+					<tr>
+						<td> {{ row['ID'] }} </td>
+						<td> {{ row['First'] }} {{ row['Last'] }} </td>
+						<td> {{ row['Code'] }} </td>
+						<td> {{ row['Mark'] }} </td>
+					</tr>
+					{% endfor %}
+				</table>
+			</div>
+			
+			<a href="/add_new_student/">Add a New Student</a>
+		</div>
+	</body>
+</html>
