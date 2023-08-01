@@ -21,6 +21,8 @@
 
 ### 2. Lecture
 
+我们这一届 SE 分别由 [Boon Giin](https://research.nottingham.edu.cn/en/persons/boon-giin-lee) 和 [Tianxiang](https://research.nottingham.edu.cn/en/persons/tianxiang-cui) 负责。
+
 这门课绝对是我大二一年上过最魔幻的课之一，lecture 听了和没听一样，左耳进右耳出，我的脑子里留不下任何的东西。这门课叫 Software Engineering，本应是实操大于理论的东西，但是却有占比 50%的期末考试，真的让我和同伴们很费解。
 
 SE 一共 18 个 Lecture PPT，他们的主要意义就在于应付期末考，CW 的内容就算不听 Lecture 纯看 Lab 也是完全能做下去的，因此我在期末周之前从未认真的看过其中的任何一个 PPT。
@@ -55,7 +57,7 @@ SE 一共 18 个 Lecture PPT，他们的主要意义就在于应付期末考，C
 
 ### 4. NOTE
 
-**这门课我没有写NOTE**
+这门课我没有写NOTE
 
 
 
@@ -66,11 +68,6 @@ SE 一共 18 个 Lecture PPT，他们的主要意义就在于应付期末考，C
 因此借用 Prof. Yu 的话：
 
 >   “SE 这门课不用听也没关系，教材吃透了，考试就会了。”
-
-
-
-
-
 
 
 
