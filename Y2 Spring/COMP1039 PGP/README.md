@@ -22,11 +22,11 @@
 
 ### 2. Lecture
 
-PGP 就是 **Java** 和 **Haskell** 两个部分，分别介绍 **OOP** 和 **Functional Programming** 这两种编程风格。但比较魔幻的是这俩是串着上的，比如一周 Java 一周 Haskell 这样子
+PGP 就是 **Java** 和 **Haskell** 两个部分，分别介绍 **OOP** 和 **Functional Programming** 这两种编程风格，分别由 [Yuan Yao](https://research.nottingham.edu.cn/en/persons/yuan-yao) 和 [Tony](https://research.nottingham.edu.cn/en/persons/anthony-graham-bellotti) 负责。但比较魔幻的是这俩是串着上的，比如一周 Java 一周 Haskell 这样子。
 
 我分成了 Java，Haskell，Java-Code 和 Haskell Code 这四个文件夹。前两个就是专门放 ppt 用的，Java-Code 是用来放上课给的 sample code，Haskell-Code 是我自己照着 ppt 打的，可能不是很全。
 
-PGP 是很纯粹的编程课（即便如此，考试的占比仍然是 75%），这两门课的 ppt 做的都还不错，Haskell 做的尤其清楚。因此我觉得直接看 ppt 加上一些信息检索，自学是完全没问题的
+PGP 是很纯粹的编程课（即便如此，考试的占比仍然是 75%），这两门课的 ppt 做的都还不错，Haskell 做的尤其清楚。因此我觉得直接看 ppt 加上一些信息检索，自学是完全没问题的，当然 Tony 的课堂体验还是非常好的。
 
 
 
