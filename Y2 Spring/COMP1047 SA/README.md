@@ -20,7 +20,7 @@
 
 ### 2. Lecture
 
-这门课分为两个部分，Part 1 涉及 **Computer Architecture** 和 **MIPS Programming**，是衔接于大二上学期 **Computer Fundamentals** 这门课的，Part 2 涉及一些 Computer Network。
+这门课分为两个部分，Part 1 涉及 **Computer Architecture** 和 **MIPS Programming**，是衔接于大二上学期 **Computer Fundamentals** 这门课的，Part 2 涉及一些 Computer Network，分别由 [Prof. Heng Yu](https://research.nottingham.edu.cn/en/persons/heng-yu) 和 [Prof. Weng Ying](https://research.nottingham.edu.cn/en/persons/ying-weng) 负责。
 
 **SA** 的 lecture 没有给特别的命名顺序，比如 Session xx, Chapter xx 之类的，所以我是用 **WxxLxx** 来标注的，代表第xx周的第xx个 lecture；因此 lab 也是用 lab_Wxx 来命名的，来代表第几周的 lab，所以整体看上去会比较凌乱
 
