@@ -22,7 +22,9 @@
 
 ### 2. Lecture
 
-这门课一共有 10 个 Session，分为 2 个 part。Part 1 是 Session 1 - Session 5，主要涉及到 `Blind Search` 和 `Heuristic Search` 的一些算法；Part 2 是 Session 6 - Session 10，内容比较杂乱，涉及到 `MDP`，`Machine Learning` 的介绍和一点点`Neural Network`。
+这门课一共有 10 个 Session，分为 2 个 part，分别由 [Qian Zhang](https://research.nottingham.edu.cn/en/persons/qian-zhang) 和 [Huan Jin](https://research.nottingham.edu.cn/en/persons/huan-jin) 负责。
+
+Part 1 是 Session 1 - Session 5，主要涉及到 `Blind Search` 和 `Heuristic Search` 的一些算法；Part 2 是 Session 6 - Session 10，内容比较杂乱，涉及到 `MDP`，`Machine Learning` 的介绍和一点点`Neural Network`。
 
 Session 1 是 intro，跳过；Session 2 主要介绍了 Problem Formulation 的一些性质还有 Search Tree；Session3 - 4 介绍了 `Blind Search` 和 `Heuristic Search` 的几个算法；Session 5 介绍了 `Minimax` 算法和 `Alpha-Beta` 剪纸。（Session 3 - 5 有 ppt 的动画演示，所以也顺带上传了`.pptx`文件）
 
