@@ -7,16 +7,16 @@
 
 ### 1. Basic Info
 
-| Title       | Content                             | Remark       |
-| ----------- | ----------------------------------- | ------------ |
-| Module Code | COMP1046                            |              |
-| Name        | Mathematics for Computer Scientists | MCS in short |
-| Credits     | 20                                  |              |
-| Lecture     | 2 per week                          | 3h           |
-| Tutorial    | 1 per week                          | 2h           |
-| CW1         | 10%                                 | covers pt.1  |
-| CW2         | 15%                                 | covers pt.2  |
-| Final Exam  | 75%                                 |              |
+| Title       | Content                             | Remark           |
+| ----------- | ----------------------------------- | ---------------- |
+| Module Code | COMP1046                            |                  |
+| Name        | Mathematics for Computer Scientists | **MCS** in short |
+| Credits     | 20                                  |                  |
+| Lecture     | 2 per week                          | 3h               |
+| Tutorial    | 1 per week                          | 2h               |
+| CW1         | 10%                                 | covers pt.1      |
+| CW2         | 15%                                 | covers pt.2      |
+| Final Exam  | 75%                                 |                  |
 
 
 
