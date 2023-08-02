@@ -12,7 +12,7 @@
 | Name        | Foundation Algebra for Physical Sciences & Engineering | **Algebra** in short |
 | Credits     | 10                                                     |                      |
 | Lecture     | 1 per week                                             | 2h                   |
-| Seminar     | 1 per week                                             | 2h                   |
+| Seminar     | 1 per week                                             | 1h                   |
 | Mid-Exam    | 30%                                                    |                      |
 | Final Exam  | 70%                                                    |                      |
 
