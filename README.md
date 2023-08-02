@@ -8,3 +8,4 @@
 -   不涉及CW和Past Exam Paper的内容，也不涉及Revision
 -   很简陋的梳理，如果
 -   每个module都会有一个Intro文档，请先阅读
+-   大一将不包括语言课
