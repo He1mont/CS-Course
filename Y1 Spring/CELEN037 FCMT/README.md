@@ -20,7 +20,7 @@
 
 ### 2. Overview
 
-这门课就是讲一些很基础的微积分应用，PPT 质量一般，[Lecture](./LEC) 和 [Seminar](./Seminar) 都没什么营养，完全可以靠自学。Lecture PPT 看下去自学是没问题的，Seminar 就讲题，如果提前做完了的话没有太大听课的必要。由于现在访问有一些链接已经失效了，所以 Seminar 的 PPT 是少了两个的。
+这门课就是讲一些很基础的微积分应用，PPT 质量一般，[Lecture](./Lecture) 和 [Seminar](./Seminar) 都没什么营养，完全可以靠自学。Lecture PPT 看下去自学是没问题的，Seminar 就讲题，如果提前做完了的话没有太大听课的必要。由于现在访问有一些链接已经失效了，所以 Seminar 的 PPT 是少了两个的。
 
 关于 [Problem Sheet](<./Problem Sheet>) 和 [Worksheet](./Worksheet)，我记得 Problem Sheet 是每周 Lecture 结束后就会发，题量适中，难度不大，但是没答案；Worksheet 是 Seminar 上的练习，课上会挑一些来做并且讲解，是配有答案的。这两个 Sheet 如果都能做掉的话，考试问题应该就不大。
 
