@@ -13,16 +13,21 @@
 | Credits     | 10                         |                        |
 | Lecture     | 1 per week                 | 1h                     |
 | Seminar     | 1 per week                 | 1h                     |
-| Mid-Exam    | 30%                        |                        |
-| Final Exam  | 70%                        |                        |
+| CW          | 25%                        |                        |
+| Mid-Exam    | 25%                        |                        |
+| Final Exam  | 50%                        |                        |
 
 
 
 ### 2. Overview
 
-高中数学，课件看了、题都做了就行。不多赘述。
+顾名思义，这门课就是算法导论。不涉及任何具体的语言，用伪代码来实现一些经典的 Search 和 Sort，基本都是用递归来完成的，还有涉及到一点点 BST 和图论。
 
-Seminar 的文件链接全部过期了(2023/8/2)，因此没有放 Seminar 的课件。
+[Lecture](./Lecture) 和 [Seminar](./Seminar) 认真听下来应该就没啥问题，学习体验还是蛮流畅的。由于教的是伪代码，所以我们的 CW 是在 Word 上敲代码，也算是编程学习路上少有的新奇体验，考试的话就是在纸上手搓代码。
+
+[Extra Problems](<./Extra Problems>) 还是蛮值得一做的，但是没给答案，我只写了 3 4 5，可以作为参考。
+
+
 
 
 
