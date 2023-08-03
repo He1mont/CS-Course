@@ -24,9 +24,11 @@
 
 **SA** 的 lecture 没有给特别的命名顺序，比如 Session xx, Chapter xx 之类的，所以我是用 **WxxLxx** 来标注的，代表第xx周的第xx个 lecture；因此 lab 也是用 lab_Wxx 来命名的，来代表第几周的 lab，所以整体看上去会比较凌乱
 
-Architecture 的部分是 W1-W7，W1-W2 零零散散讲了些知识点，W3-W4 就是占大头的 MIPS，大二上的 **CF** 也有涉及到汇编语言，所以我觉得上手起来并不是那么难，**CW 主要涉及的也就是 MIPS 编程**。W5-W7 就是计算机系统的知识了，ISA、ALU、CPU 和 Pipeplining
-
-Network 的部分是 W8-W10，Lecture 上并不会讲的面面俱到，但是 PPT里涵盖的知识点却很多，可能在 PPT 里没有详细说明、只是出现了一页的知识点（譬如 subnet mask 子网掩码）都可能出现在期末考卷上。
+-   Architecture 的部分是 W1-W7
+    -   W1-W2 零零散散讲了些知识点
+    -   W3-W4 就是占大头的 MIPS，大二上的 **CF** 也有涉及到汇编语言，所以我觉得上手起来并不是那么难，**CW 主要涉及的也就是 MIPS 编程**。
+    -   W5-W7 就是计算机系统的知识了，ISA、ALU、CPU 和 Pipeplining
+-   Network 的部分是 W8-W10，Lecture 上并不会讲的面面俱到，但是 PPT里涵盖的知识点却很多，可能在 PPT 里没有详细说明、只是出现了一页的知识点（譬如 subnet mask 子网掩码）都可能出现在期末考卷上。
 
 Part 1 很自然的就学过来了，但 Part 2 的学习经历对我来说堪称魔幻，复习的时候我几乎调动了所有的信息检索能力，CSDN, Google, ChatGPT, Bilibili, Youtube，才算勉勉强强对整个 Part 2有了一个知识框架
 
@@ -48,7 +50,7 @@ Note 的命名顺序和 Lecture 是匹配的
 
 Architecture 部分，课件讲的蛮清楚的，我的 note 更多是自己的整理，就是把 ppt 抄一遍自己好有个印象，所以参考价值并不高
 
-Network 部分的 note，我上课的时候整过一遍，复习的时候又整了一遍，不敢说有太多参考价值，对照着看 ppt 应该会更清楚一点
+Network 部分的 note，我上课的时候整过一遍，复习的时候又整了一遍，不敢说有太多参考价值，当时整理只是为了在空白的大脑里留一点印象
 
 
 
