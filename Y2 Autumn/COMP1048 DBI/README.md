@@ -10,12 +10,12 @@
 | Title           | Content                  | Remark                    |
 | --------------- | ------------------------ | ------------------------- |
 | Module Code     | COMP1048                 |                           |
-| Name            | Databases and Interfaces | DBI in short              |
+| Name            | Databases and Interfaces | **DBI** in short          |
 | Credits         | 10                       |                           |
 | Lecture         | 1 per week               | 2h                        |
 | Lab             | 1 per week               | 2h                        |
 | Lab Submissions | 10%                      | 1% per week               |
-| Mid-term Quiz   | 15%                      | covers database           |
+| Mid-term Quiz   | 15%                      | covers Database           |
 | CW              | 25%                      | Database+Backend+Frontend |
 | Final Exam      | 50%                      |                           |
 
