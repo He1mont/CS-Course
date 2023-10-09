@@ -24,7 +24,7 @@
 
 MCS 教的比较杂，一门数学课把国内大学的离散数学、线性代数、概率统计全都包含了，但是内容深度都比较浅，大部分停留在基础概念的应用上。MCS 也是分两个部分，上半部分是离散数学 + 一点点概率统计，下半部分是线性代数，分别由 [Huan Jin](https://research.nottingham.edu.cn/en/persons/huan-jin) 和 [Tony](https://research.nottingham.edu.cn/en/persons/anthony-graham-bellotti) 负责。
 
-Part 1 的课件真的很难评，但好在课本上都有囊括，建议直接对照课本的章节进行自学，概念更详细，例题更完善，排版更美观。离散数学的参考教材是大名鼎鼎的 [Discrete Mathematics and Its Applications 7th ed.](<./Textbook/Discrete Mathematics.pdf>) ，中译本在 [这里](https://book.douban.com/subject/26316200/)，还是直接看英文原版比较好。其中 [Chapter 11](<./LEC pt.1/Chapter 11 Continuous Probabilities.pdf>) 是我们这一届新加的，涉及到概率统计的一点点基础知识，课件看懂应该就没问题。
+Part 1 的课件真的很难评，但好在课本上都有囊括，建议直接对照课本的章节进行自学，概念更详细，例题更完善，排版更美观。离散数学的参考教材是大名鼎鼎的 [Discrete Mathematics and Its Applications 7th ed.](<./Textbook/Discrete Mathematics.pdf>) ，中译本在 [这里](https://book.douban.com/subject/26316200/)，还是直接看英文原版比较好。其中 [Chapter 11](<./LEC pt.1/Chapter11 Continuous Probabilities.pdf>) 是我们这一届新加的，涉及到概率统计的一点点基础知识，课件看懂应该就没问题。
 
 Part 2 的课件做的是相当美观的，Lecture 认真听下来应该就没什么问题，不过涉及的 Lamma 和 Theorem 比较多，需要确保自己都能手动推导出来，教材可以当作辅助参考。我们这一届因为 11 - 12月的疫情影响，教学进度受阻，所以第二部分的一些 Lecture 就没讲。
 
