@@ -3,8 +3,7 @@
 >   写于 2023 年 6 月 8 日
 
 
-
-### 1. Basic Info
+## 1. Basic Info
 
 | Title       | Content                                         | Remark            |
 | ----------- | ----------------------------------------------- | ----------------- |
@@ -17,8 +16,7 @@
 | Final Exam  | 70%                                             |                   |
 
 
-
-### 2. Overview
+## 2. Overview
 
 这门课就是讲一些很基础的微积分应用，PPT 质量一般，[Lecture](./Lecture) 和 [Seminar](./Seminar) 都没什么营养，完全可以靠自学。Lecture PPT 看下去自学是没问题的，Seminar 就讲题，如果提前做完了的话没有太大听课的必要。由于现在访问有一些链接已经失效了，所以 Seminar 的 PPT 是少了两个的。
 
