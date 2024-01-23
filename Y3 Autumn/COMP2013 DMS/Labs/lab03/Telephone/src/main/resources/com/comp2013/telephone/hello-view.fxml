@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.comp2013.telephone.HelloController">
+   <children>
+      <Label fx:id="label" layoutX="205.0" layoutY="58.0" prefHeight="41.0" prefWidth="191.0" underline="true" />
+      <Button fx:id="b7" layoutX="209.0" layoutY="116.0" mnemonicParsing="false" onAction="#onClickButton7" prefHeight="50.0" prefWidth="50.0" text="7" />
+      <Button fx:id="b8" layoutX="276.0" layoutY="116.0" mnemonicParsing="false" onAction="#onClickButton8" prefHeight="50.0" prefWidth="50.0" text="8" />
+      <Button fx:id="b9" layoutX="341.0" layoutY="116.0" mnemonicParsing="false" onAction="#onClickButton9" prefHeight="50.0" prefWidth="50.0" text="9" />
+      <Button fx:id="b6" layoutX="341.0" layoutY="178.0" mnemonicParsing="false" onAction="#onClickButton6" prefHeight="50.0" prefWidth="50.0" text="6" />
+      <Button fx:id="b3" layoutX="341.0" layoutY="242.0" mnemonicParsing="false" onAction="#onClickButton3" prefHeight="50.0" prefWidth="50.0" text="3" />
+      <Button fx:id="b5" layoutX="275.0" layoutY="178.0" mnemonicParsing="false" onAction="#onClickButton5" prefHeight="50.0" prefWidth="50.0" text="5" />
+      <Button fx:id="b4" layoutX="209.0" layoutY="178.0" mnemonicParsing="false" onAction="#onClickButton4" prefHeight="50.0" prefWidth="50.0" text="4" />
+      <Button fx:id="b2" layoutX="275.0" layoutY="242.0" mnemonicParsing="false" onAction="#onClickButton2" prefHeight="50.0" prefWidth="50.0" text="2" />
+      <Button fx:id="b1" layoutX="209.0" layoutY="242.0" mnemonicParsing="false" onAction="#onClickButton1" prefHeight="50.0" prefWidth="50.0" text="1" />
+      <Button fx:id="b0" layoutX="275.0" layoutY="304.0" mnemonicParsing="false" onAction="#onClickButton0" prefHeight="50.0" prefWidth="50.0" text="0" />
+      <Button fx:id="call" layoutX="341.0" layoutY="304.0" mnemonicParsing="false" onAction="#makeCall" prefHeight="50.0" prefWidth="50.0" text="Call" />
+      <Button fx:id="clear" layoutX="209.0" layoutY="304.0" mnemonicParsing="false" onAction="#clearLabel" prefHeight="50.0" prefWidth="50.0" text="Clear" />
+   </children>
+</Pane>

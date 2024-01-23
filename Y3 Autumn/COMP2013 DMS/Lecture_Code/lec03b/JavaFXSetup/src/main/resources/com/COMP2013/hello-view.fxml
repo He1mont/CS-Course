@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.COMP2013.BikeController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <Label text="Check out the list of my bike objects below:" />
+    <ListView fx:id="bikeListView" />
+    <Label text="Bike Name" />
+    <TextField fx:id="bikeNameField" />
+    <Label text="Bike Color" />
+    <TextField fx:id="bikeColorField" />
+    <Button onAction="#onAddBikeBtnClick" text="Add Bike" />
+   <Button mnemonicParsing="false" onAction="#onExitClick" prefHeight="26.0" prefWidth="69.0" text="Exit " />
+</VBox>
