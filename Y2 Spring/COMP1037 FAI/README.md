@@ -1,11 +1,8 @@
 # COMP1037 FAI
 
 >   写于 2023 年 5 月 28 日
->
 
-
-
-### 1. Basic Info
+## 1. Basic Info
 
 | Title       | Content                                 | Remark           |
 | ----------- | --------------------------------------- | ---------------- |
@@ -18,9 +15,7 @@
 | CW2         | 15%                                     | covers pt.2      |
 | Final Exam  | 75%                                     |                  |
 
-
-
-### 2. Lecture
+## 2. Lecture
 
 这门课一共有 10 个 Session，分为 2 个 part，分别由 [Qian Zhang](https://research.nottingham.edu.cn/en/persons/qian-zhang) 和 [Huan Jin](https://research.nottingham.edu.cn/en/persons/huan-jin) 负责。
 
@@ -38,15 +33,11 @@ Part 1 是 Session 1 - Session 5，主要涉及到 Blind Search 和 Heuristic Se
 
 总体来说 Part 1 的架构还是相对清晰一点的，属于看 PPT 能看懂，Part 2 则很需要一些课外资源的帮助了。
 
-
-
-### 3. Lecture Code
+## 3. Lecture Code
 
 Part 1 的 lecture 有提供 `.ipynb` 的文件，主要就是通过 python 实现一些小游戏，我当时没仔细看，和 lab 的内容到也没有差特别多
 
-
-
-### 4. Lab
+## 4. Lab
 
 FAI lab 的文件主要是 `.ipynb`，前期需要用 `anaconda` 配置好 `jupyter`，具体教程在 [GetStart文件](./LAB/FAI-GetStart.pdf) 里，[lab01](./LAB/lab01) 里面还有 ipynb 和 python 的基本使用教程。
 
@@ -59,17 +50,13 @@ FAI lab 的文件主要是 `.ipynb`，前期需要用 `anaconda` 配置好 `jupy
 
 >   “我对这个 CW 的理解就是，代码跑起来了，但是本质并不理解。”
 
-
-
-### 5. Note
+## 5. Note
 
 FAI 的 Note 应该是我大二下四门课里做的最认真的一门笔记了，后来复习周的时候又整理了一遍，虽然笔记认真和最后学成什么样没有必然联系
 
 文件形式都是 `.md`，可以用 `Typora` 之类支持 `markdown` 的软件打开
 
-
-
-### 6. Textbook
+## 6. Textbook
 
 FAI 的教材是 [Artificial Intelligence A Modern Approach (4th edition)](<./Textbook/Artificial Intelligence A Modern Approach.pdf>)，Lecture 没有太多提到教材，只在 Part 2 的 lab 里有用到书里对应的数据库，行有余力的话可以看看
 
