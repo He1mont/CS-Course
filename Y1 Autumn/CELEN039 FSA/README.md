@@ -2,7 +2,6 @@
 
 >   写于 2023 年 8 月 3 日
 
-
 ## 1. Basic Info
 
 | Title       | Content              | Remark           |
@@ -16,7 +15,6 @@
 | Lab Report  | 25%                  | 2 reports        |
 | Weekly Quiz | 15%                  | 10 quizzes       |
 | Final Exam  | 60%                  |                  |
-
 
 ## 2. Overview
 
