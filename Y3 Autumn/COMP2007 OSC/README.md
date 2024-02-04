@@ -46,5 +46,3 @@ OSC 的 [lab 文档](./Labs/labs.pdf)写的很漂亮，一共 15 道题，都在
 
 OSC 课件上的官方教材有三本，其中引用频率最高的是 **Tanenbaum**，其次是 **Stalling**，剩余那本很少提及。Lecture 当中所涉及的章节，基本在**Tanenbaum**（也就是 *Modern Operating System*）里都有对应，教材当中的内容会丰富很多，这本书也有 [中译本](https://book.douban.com/subject/27096665/)。
 
-操作系统还有一本著名的教材是 **OSTEP**，中译本的质量非常高，但是和 OSC 的编排逻辑不是很契合，放在这里供参考。
-

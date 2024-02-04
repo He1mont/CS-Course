@@ -42,8 +42,4 @@ Lab 的题目还是比较容易上手的，不会有 bar 特别高的题目，�
 
 ## 5. Textbook
 
-教材的话 Lecture PPT 里基本没有 Reference，倒是 Lab 里有时候会用到教材的课后习题。
-
-那本大名鼎鼎的 [C Primer Plus 6](./Textbook/C Primer Plus（第6版）.pdf) 我也放进去了，但我没看过，对初学者还是有点门槛的。
-
-当时 C 语言基础自学参考的是脍炙人口的 [浙江大学翁恺 MOOC](https://www.icourse163.org/course/ZJU-199001?tid=1470101496)
+教材的话 Lecture PPT 里基本没有 Reference，倒是 Lab 里有时候会用到教材的课后习题。个个人当时 C 语言基础自学参考的是脍炙人口的 [浙江大学翁恺 MOOC](https://www.icourse163.org/course/ZJU-199001?tid=1470101496)
